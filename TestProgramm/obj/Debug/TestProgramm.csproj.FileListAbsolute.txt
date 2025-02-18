@@ -1,0 +1,10 @@
+C:\Users\Arbeitserprobung\source\repos\TestProgramm\TestProgramm\bin\Debug\TestProgramm.exe.config
+C:\Users\Arbeitserprobung\source\repos\TestProgramm\TestProgramm\bin\Debug\TestProgramm.exe
+C:\Users\Arbeitserprobung\source\repos\TestProgramm\TestProgramm\bin\Debug\TestProgramm.pdb
+C:\Users\Arbeitserprobung\source\repos\TestProgramm\TestProgramm\obj\Debug\TestProgramm.csproj.AssemblyReference.cache
+C:\Users\Arbeitserprobung\source\repos\TestProgramm\TestProgramm\obj\Debug\TestProgramm.Form1.resources
+C:\Users\Arbeitserprobung\source\repos\TestProgramm\TestProgramm\obj\Debug\TestProgramm.Properties.Resources.resources
+C:\Users\Arbeitserprobung\source\repos\TestProgramm\TestProgramm\obj\Debug\TestProgramm.csproj.GenerateResource.cache
+C:\Users\Arbeitserprobung\source\repos\TestProgramm\TestProgramm\obj\Debug\TestProgramm.csproj.CoreCompileInputs.cache
+C:\Users\Arbeitserprobung\source\repos\TestProgramm\TestProgramm\obj\Debug\TestProgramm.exe
+C:\Users\Arbeitserprobung\source\repos\TestProgramm\TestProgramm\obj\Debug\TestProgramm.pdb
